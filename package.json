@@ -1,6 +1,6 @@
 {
   "scripts": {
-  "test": "jest"
+  "test": "jest",
   "build": "echo 'No build step required' "
   }, 
   "devDependencies": { 
