@@ -12,4 +12,5 @@ phases:
       - npm test   # <--- tests here
   build:
     commands:
+      - echo "Running build..."
       - npm run build
