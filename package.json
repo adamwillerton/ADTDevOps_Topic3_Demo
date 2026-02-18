@@ -1,6 +1,7 @@
 {
   "scripts": {
   "test": "jest"
+  "build": "echo \"No build step required\"
   }, 
   "devDependencies": { 
     "jest": "^29.0.0" 
