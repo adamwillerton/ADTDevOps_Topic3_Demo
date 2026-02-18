@@ -3,7 +3,7 @@ version: 0.2
 phases:
   install:
     commands:
-      - npm ci
+      - npm install
   pre_build:
     commands:
       - npm test   # <--- tests here
