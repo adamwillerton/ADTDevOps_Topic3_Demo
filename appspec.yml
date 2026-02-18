@@ -6,5 +6,3 @@ files:
 hooks:
   AfterInstall:
     - echo "Deploy done!"
-      timeout: 300
-      runas: root
